@@ -1,0 +1,13 @@
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\netcoreapp3.1\05. Suitcases Load.exe
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\netcoreapp3.1\05. Suitcases Load.deps.json
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\netcoreapp3.1\05. Suitcases Load.runtimeconfig.json
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\netcoreapp3.1\05. Suitcases Load.runtimeconfig.dev.json
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\netcoreapp3.1\05. Suitcases Load.dll
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\bin\Debug\netcoreapp3.1\05. Suitcases Load.pdb
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\netcoreapp3.1\05. Suitcases Load.csprojAssemblyReference.cache
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\netcoreapp3.1\05. Suitcases Load.AssemblyInfoInputs.cache
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\netcoreapp3.1\05. Suitcases Load.AssemblyInfo.cs
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\netcoreapp3.1\05. Suitcases Load.csproj.CoreCompileInputs.cache
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\netcoreapp3.1\05. Suitcases Load.dll
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\netcoreapp3.1\05. Suitcases Load.pdb
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\05. Suitcases Load\obj\Debug\netcoreapp3.1\05. Suitcases Load.genruntimeconfig.cache

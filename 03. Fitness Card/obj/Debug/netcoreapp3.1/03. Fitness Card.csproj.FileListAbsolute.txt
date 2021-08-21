@@ -1,0 +1,13 @@
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.exe
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.deps.json
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.runtimeconfig.json
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.runtimeconfig.dev.json
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.dll
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.pdb
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.csprojAssemblyReference.cache
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.AssemblyInfoInputs.cache
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.AssemblyInfo.cs
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.csproj.CoreCompileInputs.cache
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.dll
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.pdb
+C:\Users\PC-9000\source\repos\Programming Basics Online Exam - 28 and 29 March 2020\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.genruntimeconfig.cache
